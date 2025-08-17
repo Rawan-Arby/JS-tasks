@@ -1,4 +1,0 @@
-Task:
-Create a simple web page with a form containing three fields: user name, age, and favorite hobby. When the user fills in the fields and clicks "Show Message," JavaScript should dynamically display a personalized message like:
-"Welcome [User Name] You are [Age] years old, and your favorite hobby is [Hobby]"
-This message should appear in an h1 element on the page, not as an alert. Add some CSS styling to the message (e.g., font color, size, background).
