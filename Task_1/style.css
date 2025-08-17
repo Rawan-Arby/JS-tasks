@@ -1,0 +1,38 @@
+body {
+    border: none;
+    font-family: "Work Sans", sans-serif;
+}
+.myForm {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    background-color: blueviolet;
+    border: none;
+    padding: 20px 20px;
+    margin: 10px auto;
+    text-align: center;
+    justify-content: center;
+}
+.myForm label{
+    font-weight: bold;
+    color: white;
+    display: block;
+}
+.myForm button{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: white;
+    border: 1px #1e1f1f;
+    font-size: 15px;
+    font-weight: bold;
+}
+.myForm button:hover{
+    color: white;
+    background-color: rgb(69, 125, 182);
+}
+.myForm input{
+    padding: 5px;
+    margin: 10px 0;
+    display: block;
+}
